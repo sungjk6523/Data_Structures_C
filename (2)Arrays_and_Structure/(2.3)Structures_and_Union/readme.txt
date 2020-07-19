@@ -1,0 +1,1 @@
+you must think about "how to initiate structure member by using user-defined-function"
